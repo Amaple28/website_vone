@@ -100,7 +100,7 @@ function sendToWhatsApp(event) {
     const mensagem = document.getElementById('mensagem').value;
     
     // Número do WhatsApp (substitua pelo número correto)
-    const whatsappNumber = '5531999999999';
+    const whatsappNumber = '5531993101502';
     
     // Montar a mensagem
     let text = `*Nova mensagem do site V.ONE*%0A%0A`;
