@@ -562,16 +562,16 @@ section {
 .clients-grid {
     display: grid;
     grid-template-columns: repeat(5, 1fr);
-    gap: 30px;
+    gap: 5px;
     align-items: center;
-    padding: 40px 0;
+    padding: 5px 0;
 }
 
 .client-logo {
     display: flex;
     align-items: center;
     justify-content: center;
-    padding: 20px;
+    padding: 5px;
     min-height: 80px;
     transition: 0.3s;
 }
@@ -581,8 +581,8 @@ section {
 }
 
 .client-logo img {
-    max-width: 120px;
-    max-height: 50px;
+    max-width: 200px;
+    max-height: 120px;
     object-fit: contain;
     filter: grayscale(100%);
     opacity: 0.7;
